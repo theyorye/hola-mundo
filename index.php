@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <title>IES Juan Mantovani</title>
+  <title>edit jorge</title>
   <link rel="stylesheet" href="style.css">
   <script src="script.js"></script>
 </head>
