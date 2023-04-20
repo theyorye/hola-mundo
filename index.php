@@ -9,7 +9,7 @@
 <body>
   <h1>Bienvenidos Hola Mundo</h1>
   <h2>ChoicesPracticas Profesionalizantes</2>
-  <h3>tareas de modificacion de codigo</2>
-  <h4> modificacion completada>
+  <h3>tareas de modificacion de codigo</3>
+  <h4> modificacion completada</4>
 </body>
 </html>
